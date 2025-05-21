@@ -1,0 +1,131 @@
+[{
+  "_id": {
+    "$oid": "682d16a790dda967b259e98b"
+  },
+  "title": "Tareas de la Semana",
+  "description": "Las tareas a entregar son:\nInfografía\nPresentación",
+  "image": "arroz-1747785382998.png",
+  "course": "Tecnologia",
+  "status": true,
+  "comments": [],
+  "date": {
+    "$date": "2025-05-20T06:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-20T23:56:23.029Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-20T23:56:23.029Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "682d16eea423df119c2f39f2"
+  },
+  "title": "Tareas de la Semana",
+  "description": "Las tareas a entregar son: Blog tanto backend como frontend",
+  "image": "arroz-1747785454619.png",
+  "course": "Taller",
+  "status": true,
+  "comments": [],
+  "date": {
+    "$date": "2025-05-20T06:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-20T23:57:34.671Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-20T23:57:34.671Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "682d171ca423df119c2f39f4"
+  },
+  "title": "Tareas de la Semana",
+  "description": "PMA para proyecto \"bodega\"",
+  "image": "arroz-1747785500702.png",
+  "course": "Practica Supervisada",
+  "status": true,
+  "comments": [],
+  "date": {
+    "$date": "2025-05-20T06:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-20T23:58:20.706Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-20T23:58:20.706Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "682d172da423df119c2f39f6"
+  },
+  "title": "Tareas de la Semana",
+  "description": "Api para empresa COPEREX",
+  "image": "arroz-1747785517482.png",
+  "course": "Practica Supervisada",
+  "status": true,
+  "comments": [],
+  "date": {
+    "$date": "2025-05-20T06:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-20T23:58:37.486Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-20T23:58:37.486Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "682d1780a423df119c2f39f8"
+  },
+  "title": "Ejercicio",
+  "description": "Currency-Converter",
+  "image": "arroz-1747785600596.png",
+  "course": "Taller",
+  "status": true,
+  "comments": [
+    {
+      "name": "Jose",
+      "comment": "Excelente publicación, gracias por compartir.",
+      "_id": {
+        "$oid": "682d1a7ada4dedfc3f7aa032"
+      },
+      "date": {
+        "$date": "2025-05-21T00:12:42.132Z"
+      }
+    }
+  ],
+  "date": {
+    "$date": "2025-05-20T06:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-21T00:00:00.601Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-21T00:12:42.140Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "682d17a4a423df119c2f39fa"
+  },
+  "title": "Ejercicio",
+  "description": "API para gestion de estudiantes",
+  "image": "arroz-1747785636345.png",
+  "course": "Practica Supervisada",
+  "status": true,
+  "comments": [],
+  "date": {
+    "$date": "2025-05-20T06:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-21T00:00:36.348Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-21T00:00:36.348Z"
+  }
+}]
